@@ -2,22 +2,21 @@
 
 ## <b> \<Description\> </b>
 <p>
-The code is for designing the vector field of two-dimensional limit-cycle oscillators with prescribed trajectories and phase-response characteristics, which is described in the paper:<br>
-<!-- <a href="XXX" target="_blank">　-->
-<!-- N. Namura, T. Ishii, and H. Nakao, -->
-"Designing two-dimensional limit-cycle oscillators with prescribed trajectories and phase-response characteristics,"
-<!--　</a> -->
-accepted by <b><i> XXX. </i></b>
+The code is for designing the vector field of two-dimensional limit-cycle oscillators with prescribed trajectories and phase-response characteristics, which is described in the paper:
 </p>
 
 <p>
-If you use this code, please cite:<br>
-<b><i> XXXXXXXXXX. </i></b>
+N. Namura, T. Ishii, and H. Nakao, 
+<a href="https://ieeexplore.ieee.org/document/10334036" target="_blank">
+"Designing 2-D limit-cycle oscillators with prescribed trajectories and phase-response characteristics,"
+</a>
+<i> IEEE Transactions on Automatic Control </i> <b> 69 </b> (5), 3144-3157 (2024).
 </p>
 
-<!--
-The code is for designing the vector field of two-dimensional limit-cycle oscillators with prescribed trajectories and phase-response characteristics.
--->
+<p>
+If you use this code, please cite this paper.
+</p>
+
 
 ## <b> \<Usage\> </b>
 ### <b> For designing oscillators, please run </b>
@@ -29,7 +28,7 @@ For visualizing vector fields, please run
 
 You will get the figure like this:
 <div align="center">
-    <img src="figs/star_field.png" width="60%">
+<img src="figs/star_field.png" width="60%">
 </div>
 
 ### <b> Files: </b>
@@ -47,6 +46,9 @@ You will get the figure like this:
 
 
 ## <b> \<Environments\> </b>
+### OS:
+- MacOS Big Sur 11.6.1
+  
 ### MATLAB R2022a
 - Optimization Toolbox
 - Statistics and Machine Learning Toolbox
